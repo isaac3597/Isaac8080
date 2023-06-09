@@ -5,7 +5,7 @@ USERNAME="isaac3597"
 REPO="Isaac8080"
 
 # Set the commit message
-COMMIT_MESSAGE="New AddCommitPush"
+COMMIT_MESSAGE="New AddCommitPush script that can be able to add commit and Push to your github"
 
 # Add all changes
 git add .
