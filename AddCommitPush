@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Set your GitHub username and repository name
+USERNAME="isaac3597"
+REPO="Isaac8080"
+
+# Set the commit message
+COMMIT_MESSAGE="New AddCommitPush"
+
+# Add all changes
+git add .
+
+# Commit changes with the specified message
+git commit -m "$COMMIT_MESSAGE"
+
+# Push changes to GitHub
+git push "https://github.com/isaac3597/$Isaac8080.git" master
+
